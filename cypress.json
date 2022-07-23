@@ -1,0 +1,12 @@
+{
+  "reporter": "mochawesome",
+  "reporterOptins": {
+    "reportDir": "cypress/report/mochawesomw-report",
+    "overwire": true,
+    "html": true,
+    "json": true,
+    "timestamp": "mmddyyyy_HHMMss"
+  },
+  "projectId": "2jxyq7", 
+  "baseUrl": "https://alura-fotos.herokuapp.com"
+}

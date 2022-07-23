@@ -1,0 +1,22 @@
+[
+    {
+        "email": "luke@gmail.com",
+        "fullName": "Luke Silva",
+        "userName": "Lukedia",
+        "password": "12345678"
+    },
+
+    {
+        "email": "jose@gmail.com",
+        "fullName": "jose Silva",
+        "userName": "josedia",
+        "password": "123456789"
+    },
+
+    {
+        "email": "thaynadasd@gmail.com",
+        "fullName": "Lthaynas Silva",
+        "userName": "thaysaddia",
+        "password": "123456798"
+    }
+]
